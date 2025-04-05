@@ -1,0 +1,32 @@
+Structure of this Java project
+com.pranay.javarevision
+├── _01_variables                   // Primitive types, declaration, type casting
+├── _02_operators                   // Arithmetic to ternary operators
+├── _03_controlflow                 // if-else, switch, loops, break, continue
+├── _04_methods                     // Method basics, overloading, recursion
+├── _05_constructors                // Default, parameterized, chaining
+├── _06_tostring                    // Purpose, overriding, best practices
+├── _07_scanner_io                  // Scanner usage and input validation
+├── _08_output                      // print, println, printf differences
+├── _09_objects_parameters          // Creating objects, references, mutability
+├── _10_classes_objects             // Class structure, fields, instantiation
+├── _11_encapsulation               // Getters, setters, private fields
+├── _12_inheritance                 // Extends, super keyword, constructor flow
+├── _13_polymorphism                // Overriding, dynamic dispatch
+├── _14_abstraction                 // Abstract classes and interfaces
+├── _15_interfaces                  // Interface basics, default/lambda methods
+├── _16_enums                       // Enum basics, switch usage
+├── _17_threads                     // Creating threads, lifecycle
+├── _18_multithreading              // Synchronization, wait/notify, deadlock
+├── _19_exception_handling          // try-catch, throw/throws, custom exceptions
+├── _20_pojo                        // POJO basics, equals, hashCode, toString
+├── _21_static_nonstatic            // Static blocks, context, variables/methods
+├── _22_collections                 // List, Set, Map, Queue, iteration, sorting
+├── _23_nested_classes              // Static, inner, local, anonymous classes
+├── _24_annotations                 // Built-in and custom annotations
+├── _25_generics                    // Generic methods, classes, wildcards
+├── _26_file_handling               // File I/O with File, FileReader, BufferedWriter
+├── _27_streams                     // Java Stream API, map/filter/reduce
+├── _28_lambda_expressions          // Lambda syntax, functional interfaces
+├── _29_datetime_api                // LocalDate, LocalTime, formatting
+├── _30_reflection_api              // Introspection, dynamic invocation
