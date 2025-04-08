@@ -8,7 +8,7 @@ class FinallyExample {
 
         /**
          *  The finally block is a feature of exception handling.
-         *  It ensures that certain code always runs, regardless of whether or not an exception occurs.
+         *  It ensures that certain code always runs, regardless of whether an exception occurs.
          *  This is especially useful for cleanup tasks or mandatory code execution.
          **/
         try {
